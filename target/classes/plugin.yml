@@ -1,0 +1,17 @@
+name: BlockPlacer
+version: '1.0-SNAPSHOT'
+main: niklas.blockplacer.BlockPlacer
+api-version: '1.20'
+commands:
+  Block:
+  Mauer:
+  Quader:
+  Kreis:
+  Zylinder:
+  Ball:
+  Pyramide:
+
+
+
+
+
